@@ -1,0 +1,14 @@
+C:\Users\Melike\source\repos\IstiklalMarsi\bin\Debug\net6.0\IstiklalMarsi.exe
+C:\Users\Melike\source\repos\IstiklalMarsi\bin\Debug\net6.0\IstiklalMarsi.deps.json
+C:\Users\Melike\source\repos\IstiklalMarsi\bin\Debug\net6.0\IstiklalMarsi.runtimeconfig.json
+C:\Users\Melike\source\repos\IstiklalMarsi\bin\Debug\net6.0\IstiklalMarsi.dll
+C:\Users\Melike\source\repos\IstiklalMarsi\bin\Debug\net6.0\IstiklalMarsi.pdb
+C:\Users\Melike\source\repos\IstiklalMarsi\obj\Debug\net6.0\IstiklalMarsi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melike\source\repos\IstiklalMarsi\obj\Debug\net6.0\IstiklalMarsi.AssemblyInfoInputs.cache
+C:\Users\Melike\source\repos\IstiklalMarsi\obj\Debug\net6.0\IstiklalMarsi.AssemblyInfo.cs
+C:\Users\Melike\source\repos\IstiklalMarsi\obj\Debug\net6.0\IstiklalMarsi.csproj.CoreCompileInputs.cache
+C:\Users\Melike\source\repos\IstiklalMarsi\obj\Debug\net6.0\IstiklalMarsi.dll
+C:\Users\Melike\source\repos\IstiklalMarsi\obj\Debug\net6.0\refint\IstiklalMarsi.dll
+C:\Users\Melike\source\repos\IstiklalMarsi\obj\Debug\net6.0\IstiklalMarsi.pdb
+C:\Users\Melike\source\repos\IstiklalMarsi\obj\Debug\net6.0\IstiklalMarsi.genruntimeconfig.cache
+C:\Users\Melike\source\repos\IstiklalMarsi\obj\Debug\net6.0\ref\IstiklalMarsi.dll
